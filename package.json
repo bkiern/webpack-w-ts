@@ -1,9 +1,8 @@
 {
-  "name": "myhomecomp.com",
+  "name": "webpack-ts-starter",
   "version": "0.0.1",
-  "description": "Lead gen site for homecomp.com",
+  "description": "",
   "private": "true",
-  "main": "index.ts",
   "scripts": {
     "build": "npm run type-check && webpack --config webpack.prod.js",
     "start": "webpack-dev-server --open --config webpack.dev.js",
